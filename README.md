@@ -52,6 +52,6 @@ jika user menginputkan kode yang salah
 
 ### Flowchart
 
-[gambar 9](gambar/flowchart.png)
+![gambar 9](gambar/flowchart.png)
 
 ### Sekian dan Terimakasih :)
