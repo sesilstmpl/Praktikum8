@@ -50,6 +50,10 @@ jika user menginputkan kode yang salah
 
 ![gambar 8](gambar/ss8.png)
 
+### Diagram Class
+
+![gambar 10](gambar/ss9.png)
+
 ### Flowchart
 
 ![gambar 9](gambar/flowchart.png)
